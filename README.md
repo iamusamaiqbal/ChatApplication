@@ -1,6 +1,6 @@
 # Simple Chat Application (Flutter)
 
-This is a simple chat that uses ##FirebaseAuth for authentication using emil and password. Data related to users and their chat is stored on ##FirebseRealtimeDatabase. 
+This is a simple chat that uses FirebaseAuth for authentication using emil and password. Data related to users and their chat is stored on FirebseRealtimeDatabase. 
 
 # Screenshots
 
